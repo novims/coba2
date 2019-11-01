@@ -1,0 +1,26 @@
+Cara Kerja atau cara mencari Key :)
+
+pertama pertama kalian harus mempunyai akun FaucetHub terlebih dahulu ya...
+Silahkan Buat akun disini => http://faucethub.io/r/30448059
+
+Kedua kalian harus Membuat address di FaucetHub nya bro..
+caranya? Klik Titik 3 dibagian atas..
+dan Klik Wallet address dan Link the address...
+Saran dari saya gunakan address Indodax saja ya 🤟
+
+Next Kalian harus punya site yang memiliki Key.
+Contoh Key : DF9uUPTixXfKsoiFs2czqzspgZuhC6NCW4&currency=DOGE&miner=on&key=15449f6b462ad3e2ac016a6eac30fcc7
+
+Gunanya buat apa sih bro? Itu untuk menjalankan auto claim Via Termux. 
+
+terus kalau ga ada key? Ya ga bisa dong.. 
+
+Tenang saya sudah sediakan Website yang memiliki Key 
+Silahkan Download :> https://zee.gl/Q792b
+
+Cara dapetin Keynya? Gampang.
+Kalian klik link dan masukan address wallet kalian. setelah terclaim, Kalian copy alamat website. itu sudah otomatis ada key nya..
+
+Setelah itu kalian kumpulkan jadi satu semua web yang memiliki Key di satu txt..
+
+Langsung Jalankan bit :).

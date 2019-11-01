@@ -1,0 +1,22 @@
+Langsung ya ini commandnya..
+pkg update && pkg upgrade
+pkg install php
+pkg install nano 
+
+termux-setup-storage (izinkan penyimpanan)
+
+cd /sdcard/.....(Tempat kalian meletakkan hasil ekstrak).
+
+php bug.php
+
+done bot auto claim berjalan..
+
+jika kalian ingin mengedit atau menambahkan website Autoclaim. 
+
+ketik ditermux 
+nano allkey.txt atau bisa kalian buka via notped...
+
+Jangan lupa Join telegram.. 
+https://t.me/AirdropBountyPaying
+Dan
+https://pembahasanseputarairdrop
